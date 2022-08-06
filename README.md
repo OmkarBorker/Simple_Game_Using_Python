@@ -14,5 +14,10 @@ The game is made using library pygame
 * making respective classes for player and enemies (for player and enemy information i.e position,initialising,score etc )
 * setting up quit buttons
 * adding moment controls for player  
- 
+
+Progress:
+*moments made
+*enemy created
+*game state = running 
+*bullet fire added
 
